@@ -5,3 +5,6 @@
     margin: 0;
 }
 
+#searchInput {
+    width: 40px;
+}
