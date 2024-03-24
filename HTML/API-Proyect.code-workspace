@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ODS - Definitivo-PresentableV.5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "API-Proyect"
+	}
+}

@@ -1,0 +1,56 @@
+{
+    "1": {
+        "title": "La Tierra",
+        "description": "Sección dedicada a nuestro hogar planetario.",
+        "details": [
+            "Imágenes impresionantes de la Tierra vista desde el espacio.",
+            "Datos interesantes sobre la Tierra, su estructura, clima y vida."
+        ]
+    },
+    "2": {
+        "title": "El Sol",
+        "description": "Exploración de nuestra estrella más cercana.",
+        "details": [
+            "Fotografías solares y observaciones solares en diferentes longitudes de onda.",
+            "Información sobre la importancia del Sol para la vida en la Tierra y su ciclo solar."
+        ]
+    },
+    "3": {
+        "title": "El Sistema Solar",
+        "description": "Visión general de los planetas, lunas, asteroides y cometas que componen nuestro sistema solar.",
+        "details": [
+            "Secciones dedicadas a cada planeta con imágenes y datos clave.",
+            "Información sobre misiones espaciales que han explorado nuestro sistema solar."
+        ]
+    },
+    "4": {
+        "title": "Nuestra Galaxia: La Vía Láctea",
+        "description": "Introducción a la Vía Láctea, nuestra galaxia hogar.",
+        "details": [
+            "Imágenes de la Vía Láctea tomadas desde diferentes ubicaciones de la Tierra y desde el espacio.",
+            "Datos sobre la estructura y la composición de la Vía Láctea, así como sobre los objetos celestes que contiene."
+        ]
+    },
+    "5": {
+        "title": "Explorando el Universo",
+        "description": "Sección dedicada a la exploración del universo más allá de nuestro sistema solar.",
+        "details": [
+            "Galería de imágenes de nebulosas, cúmulos estelares, galaxias distantes y otros objetos celestes.",
+            "Información sobre telescopios espaciales y terrestres utilizados para estudiar el universo."
+        ]
+    },
+    "6": {
+        "title": "Recursos Adicionales",
+        "description": "Enlaces a libros, documentales, sitios web y aplicaciones relacionadas con la astronomía y la exploración espacial.",
+        "details": [
+            "Sugerencias para seguir explorando el cosmos y profundizar en el tema."
+        ]
+    },
+    "7": {
+        "title": "Contacto y Comentarios",
+        "description": "Formulario de contacto para preguntas, comentarios o sugerencias de los visitantes.",
+        "details": [
+            "Enlaces a las redes sociales para mantenerse actualizado sobre las últimas noticias espaciales."
+        ]
+    }
+}
